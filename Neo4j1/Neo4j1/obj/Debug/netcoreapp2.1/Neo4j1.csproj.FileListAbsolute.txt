@@ -1,0 +1,96 @@
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.deps.json
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.runtimeconfig.json
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.runtimeconfig.dev.json
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.dll
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.csprojAssemblyReference.cache
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.csproj.CoreCompileInputs.cache
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorAssemblyInfo.cache
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorAssemblyInfo.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.AssemblyInfoInputs.cache
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.AssemblyInfo.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.TagHelpers.input.cache
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.TagHelpers.output.cache
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorCoreGenerate.cache
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorTargetAssemblyInfo.cache
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorTargetAssemblyInfo.cs
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.pdb
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.Views.dll
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.Views.pdb
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.Views.pdb
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.dll
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.pdb
+C:\Users\MarijaStankovic\source\repos\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.csproj.CopyComplete
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.deps.json
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.runtimeconfig.json
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.runtimeconfig.dev.json
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.dll
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.pdb
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.Views.dll
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.Views.pdb
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.csprojAssemblyReference.cache
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.csproj.CoreCompileInputs.cache
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorAssemblyInfo.cache
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorAssemblyInfo.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.AssemblyInfoInputs.cache
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.AssemblyInfo.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.TagHelpers.input.cache
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.TagHelpers.output.cache
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorCoreGenerate.cache
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorTargetAssemblyInfo.cache
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorTargetAssemblyInfo.cs
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.Views.pdb
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.dll
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.pdb
+D:\VII semestar\Napredne baze podataka\BITI_NEO\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.csproj.CopyComplete
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.deps.json
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.runtimeconfig.json
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.runtimeconfig.dev.json
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.dll
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.pdb
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.Views.dll
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\bin\Debug\netcoreapp2.1\Neo4j1.Views.pdb
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.csproj.CoreCompileInputs.cache
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorAssemblyInfo.cache
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorAssemblyInfo.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.AssemblyInfoInputs.cache
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.AssemblyInfo.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.TagHelpers.input.cache
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.TagHelpers.output.cache
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorCoreGenerate.cache
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorTargetAssemblyInfo.cache
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.RazorTargetAssemblyInfo.cs
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.Views.pdb
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.dll
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.pdb
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.csproj.CopyComplete
+C:\Users\MarijaStankovic\NBPneo\bazeneo4j\Neo4j1\Neo4j1\obj\Debug\netcoreapp2.1\Neo4j1.csprojAssemblyReference.cache
